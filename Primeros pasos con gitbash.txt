@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/mayerga/Curso_Angular.git
+git status
+git add *
+git status
+git commit -m "Comenzando el proyecto Angular"
+git push origin master
